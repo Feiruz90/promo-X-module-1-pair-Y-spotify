@@ -1,0 +1,19 @@
+header {
+  color: white;
+  background-color: black;
+}
+
+footer {
+  color: white;
+  background-color: black;
+}
+
+.jumbotron {
+  background-color: blue;
+  color: white;
+}
+
+.white {
+  background-color: white;
+  color: black;
+}
